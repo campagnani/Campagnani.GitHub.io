@@ -10,4 +10,6 @@ Facebook: [ThallesOC](Facebook.com/ThallesOC)
 
 Currículo [Lattes.CNPq.br/9804313355470338](Lattes.CNPq.br/9804313355470338)
 
+GitHub: [GitHub.com/Campagnani](GitHub.com/Campagnani)
+
 WeChat/Telegram ID: Campagnani

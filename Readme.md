@@ -1,4 +1,4 @@
-#  Thalles Oliveira Campagnani
+# Thalles Oliveira Campagnani
 
 Estudante de Engenharia Mecatrônica pelo CEFET-MG
 

@@ -2,9 +2,13 @@
 
 <h3 align="center">Currículo</h3>
 
-[Engenheiro Mecatrônico (CEFET-MG)](https://www.eng-mecatronica.divinopolis.cefetmg.br)
+Engenheiro Mecatrônico [(CEFET-MG)](https://www.eng-mecatronica.divinopolis.cefetmg.br)
 
-Mestrando em [Ciências Nucleares (DEN/UFMG)](http://nuclear.ufmg.br/)
+Mestre em [Ciências Nucleares (UFMG)](http://nuclear.ufmg.br)
+
+Doutorando em [Ciência e Tecnologia das Radiações, Minerais e Materiais (CDTN)](https://www.gov.br/cdtn/pt-br/ensino/mestrado-e-doutorado)
+
+Técnico em [Mecânica (SENAI-MG)](https://www.fiemg.com.br/unidades/senai-divinopolis-cfp-anielo-greco)
 
 Currículo acadêmico completo: [Lattes](http://Lattes.CNPq.br/9804313355470338)
 
@@ -12,9 +16,9 @@ Currículo acadêmico completo: [Lattes](http://Lattes.CNPq.br/9804313355470338)
 
 Email pessoal: <ThallesCampagnani@gmail.com>
 
-Email acadêmico: <ThallesCampagnani@ufmg.br>
+Email acadêmico: <Thalles.Campagnani@cdtn.br>
 
-Celular(WhatsApp): [+55 (37) 9.9158-9180](https://api.whatsapp.com/send?phone=553791589180&text=Oi!%20Achei%20seu%20numero%20pelo%20seu%20site!)
+Celular(WhatsApp): [+55 (37) 9.9158-9180](https://api.whatsapp.com/send?phone=553791589180&text=Oi!%20Achei%20seu%20numero%20pelo%20GitHub!)
 
 Telegram ID: [Campagnani](https://t.me/Campagnani)
 
@@ -25,11 +29,11 @@ Wechat ID: Campagnani
 
 Português (nativo)
 
-Chinês (em processo de apredizagem, HSK1: 124pts)
-
 Inglês (fluente)
 
-Espanhol (baixo)
+Chinês (em processo de apredizagem, HSK1: 124pts)
+
+Espanhol (básico)
 
 <h3 align="center">Linguagens</h3>
 
@@ -38,8 +42,11 @@ Espanhol (baixo)
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a> 
-    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100" height="100"/> </a> 
+    <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="100" height="100"/> </a>
+    <a href="https://riscv.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="100" height="100"/> </a> 
 </p>
+
+
 
 Não propriamente uma linguagem, mas...
 
